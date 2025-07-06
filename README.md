@@ -1,5 +1,3 @@
-### Mini Auto-Diff Engine
-
 A minimal, from-scratch implementation of an automatic differentiation engine in Python. This project demonstrates the core mechanics of backpropagation by tracking scalar values and their gradients through a dynamically constructed computational graph. This was built for educational purposes to learn how automatic differentiation works under the hood.
 
 ### What Can It Do?
