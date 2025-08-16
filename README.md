@@ -1,4 +1,4 @@
-## AutoGrads: From Scalars to Tensors
+## From Scalars to Tensors
 From-scratch lighweight implementations of automatic differentiation engine in Python. This project demonstrates the core mechanics of backpropagation by tracking scalar values (and later, tensors) and their gradients through a dynamically constructed computational graph. This was built for educational purposes to learn how machine learning libraries like PyTorch work under the hood.
 ### `ScalarGrad.py`
 - The `Value` object holds a scalar value and automatically tracks gradients through computations.
